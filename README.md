@@ -269,12 +269,14 @@ See:Applications/
 
 # Technology Stack
 
-Odoo 19 Community Edition - ERP platform
-PostgreSQL - Odoo database
-Linux / Ubuntu Server - Server environment
-Nginx - Reverse proxy / web server layer
-Docker - Containerised deployment components
-Git / GitHub - Version control and portfolio documentation
+| Technology | Purpose |
+|---|---|
+| Odoo 19 Community Edition | ERP platform |
+| PostgreSQL | Odoo database |
+| Linux / Ubuntu Server | Server environment |
+| Nginx | Reverse proxy / web server layer |
+| Docker | Containerised deployment components |
+| Git / GitHub | Version control and portfolio documentation |
 
 # Key Outcomes
 
